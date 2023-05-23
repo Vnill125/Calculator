@@ -1,2 +1,2 @@
 Calculator
-![project-2](https://github.com/Vnill125/Calculator/assets/129762972/882a30d8-1b4b-45a8-8e65-7e0dd8d6a414)
+![project-2](https://github.com/Vnill125/Calculator/assets/129762972/94552727-1e5e-4b63-b556-2e19513833f1)
